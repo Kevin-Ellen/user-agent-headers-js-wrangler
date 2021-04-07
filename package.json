@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "user-agent-headers-js-wrangler",
+  "name": "user-agent-headers",
   "version": "1.0.0",
   "description": "Cloudflare Worker that sniffs user-agent and loads example.com with specific HTTP response headers fields based on UA.",
   "main": "src/index.js",

@@ -8,10 +8,10 @@ I open up example.com with additional HTTP response headers depending on your us
 * JavaScript
 
 ## Testing
-* URL: https://redirects-inspiration-contained-js-wrangler.croud-testing.workers.dev/
+* URL: https://user-agent-headers.croud-testing.workers.dev/
 
 1) Open tool to review headers (cURL or something)
-2) Make a GET request to: 
+2) Make a GET request to: https://user-agent-headers.croud-testing.workers.dev/
 3) Confirm HTTP response headers
 4) Change user-agent to 'Googlebot' or something
 5) Make the GET request
