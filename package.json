@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "user-agent-headers-js-wrangler",
+  "version": "1.0.0",
+  "description": "Cloudflare Worker that sniffs user-agent and loads example.com with specific HTTP response headers fields based on UA.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write '**/*.{js,css,json,md}'"
+  },
+  "author": "Kevin-Ellen <45627930+Kevin-Ellen@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
